@@ -1,6 +1,6 @@
 #include<LiquidCrystal.h>
 // Program for Counting Total No. of Parking Space Available in a Parking Area
-// Tools Used - LDR sensor, LED lights, ARDUINO NANO, ATmega 328P Microcontroller
+// Tools used - LDR sensor, LED lights, ARDUINO NANO, ATmega 328P Microcontroller
 
 const int rs =1, en = 2, d4 = 4, d5 = 5, d6 = 6, d7 = 7;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
